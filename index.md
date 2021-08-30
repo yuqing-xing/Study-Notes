@@ -133,7 +133,40 @@
     
             <p>Our focus in Outumn 2021 is recent research with specific applications.</p>
 
+<h3><a id="R"></a>References</h3>
 
+            <p>
+                <li>Henry Adams et al, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=3625712" target="_blank">Persistence images: a stable vector representation of persistent homology</a></li>
+                <li>Pankaj K. Agarwal, Herbert Edelsbrunner, John Harer, and Yusu Wang, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=2267546" target="_blank">Extreme elevation on a 2-manifold</a></li>
+                <li>Gunnar Carlsson, <a href="slides/Carlsson08.pdf" target="_blank">Topology and data</a></li>
+                <li>Gunnar Carlsson, <a href="https://www.ams.org/publications/journals/notices/201801/rnoti-p6.pdf" target="_blank">Topological modeling of complex data</a></li>
+                <li>Jiahui Chen, Rundong Zhao, Yiying Tong, and Guo-Wei Wei, <a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020257" target="_blank">Evolutionary de Rham-Hodge method</a></li>
+                <li>Vin de Silva and Gunnar Carlsson, <a href="https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166" target="_blank">Topological estimation using witness complexes</a></li>
+                <li>Michelle Feng and Mason A. Porter , <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=4209654" target="_blank">Persistent homology of geospatial data: a case study with voting</a></li>
+                <li>Cohen-Steiner, Edelsbrunner, and Harer, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=2279866" target="_blank">Stability of persistence diagrams</a></li>
+                <li>Michael L. Connolly, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1107/S0021889885010779" target="_blank">Molecular surface triangulation</a></li>
+                <li>Herbert Edelsbrunner and John L. Harer, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=2572029" target="_blank">Computational topology: an introduction</a></li>
+                <li>Saba Emrani, Thanos Gentimis, and Hamid Krim, <a href="https://ieeexplore.ieee.org/document/6737251" target="_blank">Persistent homology of delay embeddings and its application to wheeze detection</a></li>
+                <li>Hitesh Gakhar and Jose A. Perea, <a href="https://arxiv.org/abs/2103.04540" target="_blank">Sliding window persistence of quasiperiodic functions</a></li>
+                <li>Ingrid Irmer, <a href="References.pdf" target="_blank">Some references for computational topology</a></li>
+                <li>Lida Kanari et al, <a href="https://link.springer.com/article/10.1007/s12021-017-9341-1" target="_blank">A topological representation of branching neuronal morphologies</a></li>
+                <li>Lida Kanari et al, <a href="https://academic.oup.com/cercor/article/29/4/1719/5304727" target="_blank">Objective morphological classification of neocortical pyramidal cells</a></li>
+                <li>Mao Li et al, <a href="https://doi.org/10.1093/jxb/erz394" target="_blank">Characterizing 3D inflorescence architecture in grapevine using X-ray imaging and advanced morphometrics: implications for understanding cluster density</a></li>     
+                    <li>Mao Li et al, <a href="https://doi.org/10.1104/pp.18.00104" target="_blank">The persistent homology mathematical framework provides enhanced genotype-to-phenotype associations for plant morphology</a></li>     
+                <li>Mao Li et al, <a href="https://doi.org/10.3389/fpls.2018.00553" target="_blank">Topological data analysis as a morphometric method: using persistent homology to demarcate a leaf morphospace</a></li>
+                    <li>Washington Mio, <a href="https://www.sustech.edu.cn/zh/topological-analysis-of-structural-and-functional-data.html" target="_blank">Topological analysis of structural and functional data</a></li>
+                <li>Steve Y. Oudot, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=3408277" target="_blank">Persistence theory: from quiver representations to data analysis</a></li>
+                <li>Jose A. Perea, <a href="https://www.ams.org/journals/notices/201905/rnoti-p686.pdf" target="_blank">Topological time series analysis</a></li>
+                <li>Alexander Port, Taelin Karidi, and Matilde Marcolli, <a href="https://arxiv.org/abs/1903.05181" target="_blank">Topological analysis of syntactic structures</a></li>
+                <li>Raúl Rabadán and Andrew J. Blumberg, <a href="https://www.cambridge.org/core/books/topological-data-analysis-for-genomics-and-evolution/FCC8429FAD2B5D1525AEA47A8366D6EB" target="_blank">Topological data analysis for genomics and evolution: topology in biology</a></li>
+                <li>Michael T. Schaub et al, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=4094473" target="_blank">Random walks on simplicial complexes and the normalized Hodge 1-Laplacian</a></li>
+                <li>Guowei Wei, <a href="https://icm.sustech.edu.cn/science/15" target="_blank">Mathematical AI for drug discovery</a></li>
+            </p>
+
+
+<br /><br /><br />
+<p></p>
+</article>
 
     </section> <!-- s-content -->
 
