@@ -5,7 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>SUSTech Topology</title>
+    <title>Topology</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -123,9 +123,9 @@
 
 <h3><a id="A"></a>About</h3>
 
-            <p>This is a seminar on applied/computational topology in School of Mathematics and Statistics at Huazhong University of Science and Technology, China. </p>
+            <p>This is a seminar on applied/computational topology in the School of Mathematics and Statistics at Huazhong University of Science and Technology, China. </p>
             
-            <p> We aim to gain an overview of the subject, learn its basic theory and examples, with an emphasis on persistent homology and its applications.</p>
+            <p> We aim to gain an overview of the subject and learn its basic theory and examples, with an emphasis on persistent homology and its applications.</p>
             
             <p>The prerequisite is an undergraduate topology course.  Familiarity with computer programming will be a plus, 
                 as well as English proficiency.  For student participants, we encourage you to informally discuss the 
@@ -142,7 +142,7 @@
                 <li>Gunnar Carlsson, <a href="https://www.ams.org/publications/journals/notices/201801/rnoti-p6.pdf" target="_blank">Topological modeling of complex data</a></li>
                 <li>Jiahui Chen, Rundong Zhao, Yiying Tong, and Guo-Wei Wei, <a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020257" target="_blank">Evolutionary de Rham-Hodge method</a></li>
                 <li>Vin de Silva and Gunnar Carlsson, <a href="https://diglib.eg.org/handle/10.2312/SPBG.SPBG04.157-166" target="_blank">Topological estimation using witness complexes</a></li>
-                <li>Michelle Feng and Mason A. Porter , <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=4209654" target="_blank">Persistent homology of geospatial data: a case study with voting</a></li>
+                <li>Michelle Feng and Mason A. Porter, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=4209654" target="_blank">Persistent homology of geospatial data: a case study with voting</a></li>
                 <li>Cohen-Steiner, Edelsbrunner, and Harer, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=2279866" target="_blank">Stability of persistence diagrams</a></li>
                 <li>Michael L. Connolly, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1107/S0021889885010779" target="_blank">Molecular surface triangulation</a></li>
                 <li>Herbert Edelsbrunner and John L. Harer, <a href="https://mathscinet.ams.org/mathscinet-getitem?mr=2572029" target="_blank">Computational topology: an introduction</a></li>
